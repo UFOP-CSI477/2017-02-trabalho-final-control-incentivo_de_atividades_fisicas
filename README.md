@@ -19,15 +19,15 @@ O MovimenteSE (SE - Saúde e Esportes) é um sistema WEB que tem como objetivo a
 
   O projeto conta com as funcionalaidaes de:
 
-  	- Cadastro de Usuário;
-  	- Modificação de Cadastro de Usuário;
-  	- Cadastro de Usuário;
-  	- Adesão a modalidades disponíveis;
-  	- Inserção de Atividades;
-  	- Relatório de Atividades Cadastradas;
-  	- Funcionalidade de recomplensa simbólica com o intuito do incentivo ao esporte;
-  	- Histórico de Medidas Corporais cadastradas
-  	- Cadastro de medidas corporais.
+- Cadastro de Usuário;
+- Modificação de Cadastro de Usuário;
+- Cadastro de Usuário;
+- Adesão a modalidades disponíveis;
+- Inserção de Atividades;
+- Relatório de Atividades Cadastradas;
+- Funcionalidade de recomplensa simbólica com o intuito do incentivo ao esporte;
+- Histórico de Medidas Corporais cadastradas
+- Cadastro de medidas corporais.
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
