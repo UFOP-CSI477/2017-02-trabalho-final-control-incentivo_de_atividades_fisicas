@@ -1,0 +1,377 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-03-16 00:01:34 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:46 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:47 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:48 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:48 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:48 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:49 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:50 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:50 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:50 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:52 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:52 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:52 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:53 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:02:53 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:04:08 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:04:50 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:40:33 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:45:06 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:45:08 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:45:09 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:45:10 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:45:12 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:45:16 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:45:28 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:45:29 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:46:19 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:48:40 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:48:59 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:49:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:49:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:51:45 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:52:07 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:52:40 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:52:58 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:53:15 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:53:21 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:53:29 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:53:43 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:54:02 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:56:58 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:57:17 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:57:32 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:58:11 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:58:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:58:44 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:59:29 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 00:59:42 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:42:14 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:42:36 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:45:08 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:56:23 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:57:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:57:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:57:46 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:58:04 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 01:58:14 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:00:09 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:00:14 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:19:00 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:19:55 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:20:33 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:21:25 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:21:31 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:22:25 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:22:45 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:22:52 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:27:46 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:30:21 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:30:21 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:30:27 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:31:48 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:31:48 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:31:48 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:31:49 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:31:49 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:31:59 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:31:59 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:32:17 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:32:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:32:39 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:33:32 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:33:36 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:33:44 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:33:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:33:57 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:34:14 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:34:48 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:35:36 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:36:31 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:37:57 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:38:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:39:23 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:39:25 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:39:25 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:39:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:39:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:39:27 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:39:27 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:39:27 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:40:39 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 02:58:22 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:01:34 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:01:37 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:01:37 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:02:17 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:02:17 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:02:18 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:02:19 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:02:44 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:03:07 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:03:08 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:04:59 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:05:07 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:06:38 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:09:18 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:09:36 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:09:37 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:09:39 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:09:40 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:09:46 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:09:59 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:10:11 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:12:05 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:12:14 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:12:15 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:12:23 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:14:53 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:15:11 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:15:15 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:18:28 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:18:34 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:18:35 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:18:36 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:20:14 --> Severity: Notice --> Undefined variable: atividades C:\xampp\htdocs\ci\movimente\application\views\pages\atividade.php 143
+ERROR - 2017-03-16 03:20:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\ci\movimente\application\views\pages\atividade.php 143
+ERROR - 2017-03-16 03:20:14 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:20:34 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:20:44 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:20:50 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:20:54 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 03:23:43 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\ci\movimente\application\views\pages\atividade.php 163
+ERROR - 2017-03-16 11:18:09 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\ci\movimente\application\views\pages\atividade.php 163
+ERROR - 2017-03-16 18:21:07 --> 404 Page Not Found: Atividade/incluir
+ERROR - 2017-03-16 18:28:25 --> Severity: error --> Exception: Call to undefined method CI_Loader::vew() C:\xampp\htdocs\ci\movimente\application\controllers\Atividade.php 23
+ERROR - 2017-03-16 18:28:31 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:31 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:31 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:31 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:31 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:31 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:31 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:31 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:32 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:50 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:50 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:50 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:50 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:50 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:50 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:50 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:50 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:51 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:52 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:28:53 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:29 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:30 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:33 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:33 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:33 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:29:33 --> 404 Page Not Found: Atividade/assets
+ERROR - 2017-03-16 18:31:33 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:32:31 --> 404 Page Not Found: Atividade/Atividade
+ERROR - 2017-03-16 18:32:44 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:33:00 --> 404 Page Not Found: Atividade/Modalidade
+ERROR - 2017-03-16 18:33:03 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:33:05 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:33:12 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:35:30 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:35:33 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:41:57 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:41:58 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:41:59 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:41:59 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:42:20 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:42:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:42:29 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:42:35 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:43:12 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2017-03-16 18:43:14 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:43:49 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2017-03-16 18:43:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:43:52 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:43:54 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:43:55 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:43:58 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:55:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 135
+ERROR - 2017-03-16 18:55:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 162
+ERROR - 2017-03-16 18:55:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 189
+ERROR - 2017-03-16 18:55:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 218
+ERROR - 2017-03-16 18:55:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 245
+ERROR - 2017-03-16 18:55:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 272
+ERROR - 2017-03-16 18:55:46 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:56:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 135
+ERROR - 2017-03-16 18:56:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 162
+ERROR - 2017-03-16 18:56:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 189
+ERROR - 2017-03-16 18:56:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 218
+ERROR - 2017-03-16 18:56:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 245
+ERROR - 2017-03-16 18:56:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 272
+ERROR - 2017-03-16 18:56:09 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:57:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 135
+ERROR - 2017-03-16 18:57:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 162
+ERROR - 2017-03-16 18:57:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 189
+ERROR - 2017-03-16 18:57:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 218
+ERROR - 2017-03-16 18:57:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 245
+ERROR - 2017-03-16 18:57:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 272
+ERROR - 2017-03-16 18:57:04 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:57:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 135
+ERROR - 2017-03-16 18:57:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 162
+ERROR - 2017-03-16 18:57:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 189
+ERROR - 2017-03-16 18:57:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 218
+ERROR - 2017-03-16 18:57:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 245
+ERROR - 2017-03-16 18:57:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 272
+ERROR - 2017-03-16 18:57:05 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:57:43 --> Severity: error --> Exception: syntax error, unexpected 'id' (T_STRING), expecting ',' or ')' C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 135
+ERROR - 2017-03-16 18:58:00 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 18:58:43 --> Severity: error --> Exception: syntax error, unexpected ')' C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 272
+ERROR - 2017-03-16 18:58:45 --> Severity: error --> Exception: syntax error, unexpected ')' C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 272
+ERROR - 2017-03-16 18:59:38 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 272
+ERROR - 2017-03-16 18:59:38 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:00:03 --> Severity: error --> Exception: syntax error, unexpected ')', expecting ']' C:\xampp\htdocs\ci\movimente\application\views\pages\modalidade.php 272
+ERROR - 2017-03-16 19:00:12 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:00:16 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:01:58 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:01:58 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:02:00 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:02:04 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:03:12 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:03:22 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:03:26 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:07:06 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:07:55 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:07:57 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:08:09 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:08:17 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:10:14 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:10:18 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:11:01 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:11:11 --> 404 Page Not Found: Assets/vendor
+ERROR - 2017-03-16 19:11:13 --> 404 Page Not Found: Assets/vendor
