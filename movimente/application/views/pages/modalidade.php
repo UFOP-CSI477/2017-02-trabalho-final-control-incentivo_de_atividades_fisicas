@@ -275,8 +275,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     $disabled = true;
                                 }
                             ?>
-                           <a href="<?php echo base_url('Modalidade/aderir/'.$modalidades[0]['id']); ?>" class="btn btn-primary <?php echo ($disabled ? 'disabled' : ''); ?>"><?php echo $nameButton; ?></a>
-                           <a href="<?php echo base_url('Atividade/index/'.$modalidades[0]['id']); ?>" class="btn btn-primary <?php echo (!$disabled ? 'disabled' : ''); ?>">Atividades</a>
+                           <a href="<?php echo base_url('Modalidade/aderir/'.$modalidades[5]['id']); ?>" class="btn btn-primary <?php echo ($disabled ? 'disabled' : ''); ?>"><?php echo $nameButton; ?></a>
+                           <a href="<?php echo base_url('Atividade/index/'.$modalidades[5]['id']); ?>" class="btn btn-primary <?php echo (!$disabled ? 'disabled' : ''); ?>">Atividades</a>
                         </div>
                     </div>
                 </div>
